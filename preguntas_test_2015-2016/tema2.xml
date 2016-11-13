@@ -11,14 +11,14 @@
 </pregunta>
 
 <pregunta>
-  <enunciado>Indica cual de las siguientes afirmaciones es falsa</enunciado>
+  <enunciado>Indica cual de las siguientes afirmaciones es falsa 22</enunciado>
   <opcionA>Mediante el escalado vertical se lleva a cabo la escalabilidad perfecta</opcionA>
   <opcionB>Decidir cómo añadir componentes al sistema web es crucial en el diseño y el mantenimiento</opcionB>
   <opcionC>A veces la amplición vertical puede ser suficiente</opcionC>
   <opcionD>La ampliación horizontal consiste en añadir una máquina a algún subsistema</opcionD>
   <solucion>A</solucion>
 </pregunta>
- 
+
 <pregunta>
 <enunciado>¿Con que disponibilidad se conforman los sitios web?</enunciado>
 <opcionA>99.95</opcionA>
@@ -81,8 +81,8 @@
    <opcionD>Más probable a sufrir caídas programadas</opcionD>
    <solucion>A</solucion>
  </pregunta>
- 
- 
+
+
  <pregunta>
    <enunciado>¿Cómo podemos calcular la disponibilidad de un sistema?</enunciado>
    <opcionA>As = Ac1 + (Ac1* Ac2 * Ac3 * ... Acn).</opcionA>
