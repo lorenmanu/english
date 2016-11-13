@@ -9,7 +9,7 @@
     <opcionD>cuarta opcion</opcionD>
     <solucion>C</solucion>
   </pregunta>
-  
+
   <pregunta>
     <enunciado>Me encanta:</enunciado>
     <opcionA> I fond of</opcionA>
@@ -95,7 +95,7 @@
 <pregunta>
   <enunciado>Alegre</enunciado>
   <opcionA>Cheerful</opcionA>
-  <opcionB>Fantastic/opcionB>
+  <opcionB>Fantastic</opcionB>
   <opcionC>What is you say?</opcionC>
   <opcionD>cheerful</opcionD>
   <solucion>D</solucion>
