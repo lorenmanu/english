@@ -1,14 +1,1434 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tema titulo="Vocabulary" cantidad_preguntas="63">
 
+  <pregunta>
+    <enunciado>enunciado</enunciado>
+    <opcionA>primera opcion</opcionA>
+    <opcionB>segunda opcion</opcionB>
+    <opcionC>tercera opcion</opcionC>
+    <opcionD>cuarta opcion</opcionD>
+    <solucion>C</solucion>
+  </pregunta>
+
+  <pregunta>
+    <enunciado>Me encanta:</enunciado>
+    <opcionA> I fond of</opcionA>
+    <opcionB> I fond to </opcionB>
+    <opcionC> I fond about </opcionC>
+    <opcionD> Are you crazy???</opcionD>
+    <solucion>A</solucion>
+  </pregunta>
+
+  <pregunta>
+    <enunciado>Tener la oportunidad:</enunciado>
+    <opcionA> don´t forget about me </opcionA>
+    <opcionB> take a chance </opcionB>
+    <opcionC> get the chance </opcionC>
+    <opcionD> </opcionD>
+    <solucion>C</solucion>
+  </pregunta>
+
+  <pregunta>
+    <enunciado>Arriesgarse:</enunciado>
+    <opcionA> scream and shout </opcionA>
+    <opcionB> have a chance </opcionB>
+    <opcionC> take a chance </opcionC>
+    <opcionD> take the chance </opcionD>
+    <solucion>B</solucion>
+  </pregunta>
 
 
 <pregunta>
-  <enunciado> Cada uno: </enunciado>
+  <enunciado>Desear:</enunciado>
+  <opcionA>looking for </opcionA>
+  <opcionB> want to something </opcionB>
+  <opcionC> waiting for anything </opcionC>
+  <opcionD>looking foward to</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Apagar y encender</enunciado>
+  <opcionA>turn on/switch on --- turn off/switch off</opcionA>
+  <opcionB>on /// of</opcionB>
+  <opcionC> get up / get down</opcionC>
+  <opcionD>Todas las anteriores</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado> Librarse </enunciado>
+<opcionA>get rent </opcionA>
+<opcionB> get rid obout </opcionB>
+<opcionC>get rid of </opcionC>
+<opcionD>Que pasa loco????</opcionD>
+<solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado>Conseguir alquiler </enunciado>
+<opcionA> all you need is love </opcionA>
+<opcionB> square dance </opcionB>
+<opcionC> run out of </opcionC>
+<opcionD> get rent </opcionD>
+<solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>Estar "maravilloso"</enunciado>
+	<opcionA>wonderful</opcionA>
+	<opcionB>exited</opcionB>
+	<opcionC>hungry</opcionC>
+	<opcionD>trump esta como una puta cabra</opcionD>
+	<solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>Hambriento</enunciado>
+	<opcionA>Angry</opcionA>
+	<opcionB>Scream</opcionB>
+	<opcionC>Shout</opcionC>
+	<opcionD>Hungry</opcionD>
+	<solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Alegre</enunciado>
+  <opcionA>Cheerful</opcionA>
+  <opcionB>Fantastic</opcionB>
+  <opcionC>What is you say?</opcionC>
+  <opcionD>cheerful</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Ansioso</enunciado>
+  <opcionA>Sleepy</opcionA>
+  <opcionB>Eager</opcionB>
+  <opcionC> In addition</opcionC>
+  <opcionD>On the other hand</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Triste</enunciado>
+  <opcionA> Sad. </opcionA>
+  <opcionB>Tired</opcionB>
+  <opcionC>Amazing </opcionC>
+  <opcionD>Ninguna de las anteriores</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Dormido.</enunciado>
+  <opcionA>Tired </opcionA>
+  <opcionB>Angry.</opcionB>
+  <opcionC>Sleepy</opcionC>
+  <opcionD>Las tres son correctas.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Para los estados de ánimo, cual es la diferencia entre que termine en ing y en ed???????</enunciado>
+  <opcionA> Ing --> causa ese estado de animo , ed lo recibe </opcionA>
+  <opcionB> Ing es para pasado y presente continuo, ed para pasado</opcionB>
+  <opcionC>Que estas mu aburrio</opcionC>
+  <opcionD>La A y la B son correctas</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado>Diferencia entre fun y funny</enunciado>
+<opcionA>.................................</opcionA>
+<opcionB>:),XD,X(,XP)</opcionB>
+<opcionC>Fun --> adjetivo, funny --> adverbio</opcionC>
+<opcionD>Fun --> divertido, funny --> gracioso</opcionD>
+<solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado>2.-Un sitio web mal planificado...</enunciado>
+<opcionA>Nunca experimentará problemas.</opcionA>
+<opcionB>No tardará en experimentar problemas.</opcionB>
+<opcionC>Tiene mucha demanda.</opcionC>
+<opcionD>Es dificil de hacer.</opcionD>
+<solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+    <enunciado>Cuerda</enunciado>
+        <opcionA>Rope</opcionA>
+        <opcionB>Thread</opcionB>
+        <opcionC>Bridge</opcionC>
+        <opcionD>La A y B son correctas</opcionD>
+        <solucion>A, (Thread --> hilo, Bridge --> Puente)</solucion>
+</pregunta>
+
+
+<pregunta>
+    <enunciado>Adecuado</enunciado>
+        <opcionA>Polite.</opcionA>
+        <opcionB>Rude.</opcionB>
+        <opcionC> Unknown.
+        </opcionC>
+        <opcionD>Suitable.
+        </opcionD>
+        <solucion>D,( polite --> cortés, rude --> grosero.)</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Como se leería "25-30"</enunciado>
+  <opcionA>-------------------------------</opcionA>
+  <opcionB> twenty five for thirty </opcionB>
+  <opcionC>from twenty five to thirty</opcionC>
+  <opcionD>hjhjhjhjhjhj</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Dar en mano</enunciado>
+  <opcionA>Hand in.</opcionA>
+  <opcionB>sparetime.</opcionB>
+  <opcionC>give in hand</opcionC>
+  <opcionD>fingers in</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+ <enunciado>Como dirías estar enfermo y estar resfriado???</enunciado>
+ <opcionA> Enfermo( I am ill), Resfriado( I am sick) </opcionA>
+ <opcionB>Al revés de la A</opcionB>
+ <opcionC> No tengo ni idea.</opcionC>
+ <opcionD> I am desaese para las dos.</opcionD>
+ <solucion>B, desease == enfermedad, aunque estar enfermo también se podría decir I am desease.</solucion>
+</pregunta>
+
+
+
+<pregunta>
+ <enunciado>Contener algo</enunciado>
+ <opcionA>Get up</opcionA>
+ <opcionB>Get down</opcionB>
+ <opcionC>Get on</opcionC>
+ <opcionD>Ninguna</opcionD>
+ <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado> Echar de menos, perder.</enunciado>
+	<opcionA> Tear</opcionA>
+	<opcionB> Pity  </opcionB>
+	<opcionC> La A y B</opcionC>
+	<opcionD> Miss</opcionD>
+	<solucion> D, tear = lágrima, pity = lástima </solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado> Tareas</enunciado>
+	<opcionA> Duties </opcionA>
+	<opcionB> Tasks </opcionB>
+	<opcionC> A y B</opcionC>
+	<opcionD> Ninguna es correcta. </opcionD>
+	<solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Qué es una granja web?</enunciado>
+  <opcionA>Conjunto de servidores dedicados a servir contenido web a los usuarios finales.</opcionA>
+  <opcionB>Muchas páginas web juntas.</opcionB>
+  <opcionC>Muchas páginas web almacenadas en un mismo servidor. Al único servidor se le llama granja web.</opcionC>
+  <opcionD>Servidores que ser guardan en granjas de cerdos al aire libre para mantener la temperatura y no necesitar sistemas de refrigeración.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>Estricto</enunciado>
+  <opcionA>Strict.</opcionA>
+  <opcionB>Rude.</opcionB>
+  <opcionC>Unpolite.</opcionC>
+  <opcionD>-------------------</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>el texto del enunciado</enunciado>
+  <opcionA>primera opcion</opcionA>
+  <opcionB>segunda opcion</opcionB>
+  <opcionC>tercera opcion</opcionC>
+  <opcionD>cuarta opcion</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Engañar</enunciado>
+  <opcionA>Cheat</opcionA>
+  <opcionB>Lie</opcionB>
+  <opcionC>Chat </opcionC>
+  <opcionD>-----------------------</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>Suplicar</enunciado>
+  <opcionA>Suplic</opcionA>
+  <opcionB>Ninguna.</opcionB>
+  <opcionC>Regret</opcionC>
+  <opcionD>Beg</opcionD>
+  <solucion>D, regret == lamentar</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Comprometerse</enunciado>
+  <opcionA>Engage</opcionA>
+  <opcionB>Rent</opcionB>
+  <opcionC>Rend</opcionC>
+  <opcionD>Ninguna</opcionD>
+  <solucion>A, rent --> alquilar, rend --> desgarrar</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>Aumentar</enunciado>
+  <opcionA>Add</opcionA>
+  <opcionB>--------</opcionB>
+  <opcionC>Raise</opcionC>
+  <opcionD>A y D</opcionD>
+  <solucion>B, add == sumar</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Solamente</enunciado>
+  <opcionA>Mainly</opcionA>
+  <opcionB>Only</opcionB>
+  <opcionC>Whose</opcionC>
+  <opcionD>Ninguna de las opciones son correctas</opcionD>
+  <solucion>B, mainly(principalmente), whose(cuyo)</solucion>
+</pregunta>
+
+
+
+<pregunta>
+  <enunciado>Quejarse</enunciado>
+  <opcionA>Claim</opcionA>
+  <opcionB>to take to court</opcionB>s
+  <solucion>A, to take to court == demandar judicialmente.</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Tal</enunciado>
+  <opcionA> So</opcionA>
+  <opcionB> Such</opcionB>
+  <opcionC>Then </opcionC>
+  <opcionD>......</opcionD>
+  <solucion> B, So==Then</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Si necesitamos replicar nuestro sistema o comprar máquinas nuevas ¿Qué problema estamos resolviendo?</enunciado>
+  <opcionA>Problema con la disponibilidad</opcionA>
+  <opcionB>Problema con la escalabilidad</opcionB>
+  <opcionC>Problema con la carga del sistema</opcionC>
+  <opcionD>Problemas de la arquitectura del sistema</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Alumno  </enunciado>
+  <opcionA>Alumn </opcionA>
+  <opcionB>Member</opcionB>
+  <opcionC>Pupil</opcionC>
+  <opcionD>MemberShip(afiliación)</opcionD>
+  <solucion>A y B, member == miembro, membership( afiliación )</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>En conjunto</enunciado>
+  <opcionA> Together</opcionA>
+  <opcionB>Altogether</opcionB>
+  <opcionC> Although </opcionC>
+  <opcionD>Ninguna de las anteriores.</opcionD>
+  <solucion>B, although( aunque), together(juntos)</solucion>
+</pregunta>
+
+<pregunta>
+<enunciado>Castigo.</enunciado>
+<opcionA> Punishment</opcionA>
+<opcionB> Claiming</opcionB>
+<opcionC> ??????</opcionC>
+<opcionD>  Ninguna </opcionD>
+<solucion>A</solucion>
+</pregunta>
+
+
+<pregunta>
+<enunciado>Mientras tanto.</enunciado>
+<opcionA>While.</opcionA>
+<opcionB>Meanwhile.</opcionB>
+<opcionC>Then.</opcionC>
+<opcionD>Together we will be stronger.</opcionD>
+<solucion>B, while(mientras).</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>Inrritado.</enunciado>
+	<opcionA>Annoyed</opcionA>
+	<opcionB> Living on my own.</opcionB>
+	<opcionC> Help, i need somebody( beatles ).</opcionC>
+	<opcionD>Una pagina Web.</opcionD>
+	<solucion>A</solucion>
+</pregunta>
+<pregunta>
+	<enunciado>Asistiendo</enunciado>
+	<opcionA>Attending.</opcionA>
+	<opcionB>Waiting for</opcionB>
+	<opcionC>Todas son correctas.</opcionC>
+	<opcionD>Ninguna es correcta.</opcionD>
+	<solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Pasear.</enunciado>
+  <opcionA>To take a break.</opcionA>
+  <opcionB> To go for a walk.</opcionB>
+  <opcionC>??????????????</opcionC>
+  <opcionD>((((((((()))))))))</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Cada:</enunciado>
+  <opcionA>don't worry</opcionA>
+  <opcionB>Early</opcionB>
+  <opcionC>Come on.</opcionC>
+  <opcionD>Each</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Plural de person??</enunciado>
+  <opcionA>Children.</opcionA>
+  <opcionB>Men</opcionB>
+  <opcionC>People.</opcionC>
+  <opcionD>Mice.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>También.</enunciado>
+  <opcionA>Too, al final de la frase.</opcionA>
+  <opcionB>Also, entre el sujeto y el verbo.</opcionB>
+  <opcionC>Ninguna.</opcionC>
+  <opcionD>A y B.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Como se denomina al conjunto de servidores dedicados a servir contenido web a los usuarios finales?</enunciado>
+  <opcionA>Granja Web</opcionA>
+  <opcionB>Internet</opcionB>
+  <opcionC>Servidor de desarrollo </opcionC>
+  <opcionD>Servidor de producción</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Es lo mismo to be at home que to stay at home??</enunciado>
+  <opcionA> Si. </opcionA>
+  <opcionB> No. </opcionB>
+  <opcionC> Depende. </opcionC>
+  <opcionD> //////////// </opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>¿En que consiste (basicamente) una granja web?</enunciado>
+	<opcionA>Una granja web es la gestion de una granja agraria mediante una pagina web</opcionA>
+	<opcionB>Es una colección de servidores fisicos distribuidos de tal forma que consigue un sistema escalable y con alta disponibilidad</opcionB>
+	<opcionC>Es como se llama al tener un servidor en produccion y otro en desarrollo</opcionC>
+	<opcionD>Una granja web consiste en tener un servidor identico al servidor en producción para que lo sustituya ante cualquier problema</opcionD>
+	<solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>Multitud, lleno de gente.</enunciado>
+	<opcionA>.......</opcionA>
+	<opcionB> A lot of, lots of</opcionB>
+	<opcionC>Crowd, crowded</opcionC>
+	<opcionD>Pues si</opcionD>
+	<solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Depende de ti:</enunciado>
+  <opcionA> Thats to you</opcionA>
+  <opcionB>Depend to you</opcionB>
+  <opcionC>Prefer to you</opcionC>
+  <opcionD>-----------------.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Acostumbrarse a :</enunciado>
+  <opcionA> To get used to.</opcionA>
+  <opcionB> To be used to .</opcionB>
+  <opcionC>Take it usually.</opcionC>
+  <opcionD>Ninguna.</opcionD>
+  <solucion>A, to be used to ==  llegar a acostumbrarse. </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Tener sentido.</enunciado>
+  <opcionA>To make it sense</opcionA>
+  <opcionB>To get it sense</opcionB>
+  <opcionC>Have it sense</opcionC>
+  <opcionD>................</opcionD>
+  <solucion>A, to get it sense == para que tenga sentido</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Aprender de memoria:</enunciado>
+  <opcionA>To learn by heart</opcionA>
+  <opcionB>Learn with mind</opcionB>
+  <opcionC>qqqqqqq</opcionC>
+  <opcionD>//////////.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>1. A la hora de montar un servidor, ¿qué es lo más importante que deberíamos hacer? </enunciado>
+  <opcionA>Hacerlo lo más rápido posible</opcionA>
+  <opcionB>Pensar y programar la seguridad</opcionB>
+  <opcionC>Planificarlo todo con detalle a lo que pueda pasar en el futuro</opcionC>
+  <opcionD>Pensar en lo que quiero que me paguen</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Divisas:</enunciado>
+  <opcionA>Currency</opcionA>
+  <opcionB>Pound</opcionB>
+  <opcionC>Money</opcionC>
+  <opcionD>............</opcionD>
+  <solucion>A, pound==moneda, money=dinero</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>To demand, to order, to ask, to request es igual que to take to court??</enunciado>
+  <opcionA>Si</opcionA>
+  <opcionB>No, lo último es para temas judiciales</opcionB>
+  <opcionC>????</opcionC>
+  <opcionD>Ninguna de las anteriores.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>Aconsejar, consejo</enunciado>
+  <opcionA>www</opcionA>
+  <opcionB>..</opcionB>
+  <opcionC>Recive, recivement</opcionC>
+  <opcionD>Advise, advice</opcionD>
+  <solucion>D, recive(recibir), recivement( recibo )</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Dañar, daño </enunciado>
+  <opcionA>Hit</opcionA>
+  <opcionB>Hurt,hurtment</opcionB>
+  <opcionC>Pain</opcionC>
+  <opcionD>.........</opcionD>
+  <solucion>B, hit( golpear), pain( dolor )</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Lo que lleva puesto</enunciado>
+  <opcionA>Outfit.</opcionA>
+  <opcionB>Dress.</opcionB>
+  <opcionC>Wearable.</opcionC>
+  <opcionD>No lo se.</opcionD>
+  <solucion>A, dress == vestido, wearable( vestible )</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Tacones </enunciado>
+  <opcionA>Hish heels</opcionA>
+  <opcionB>Wheels</opcionB>
+  <opcionC>Speech</opcionC>
+  <opcionD>Ninguna de las anteriores</opcionD>
+  <solucion>A, wheels==ruedas, speech( discurso )</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>Salud, saludable</enunciado>
+  <opcionA>Healh, healthy</opcionA>
+  <opcionB>Care, carefully</opcionB>
+  <opcionC>google</opcionC>
+  <opcionD> worry, worryment</opcionD>
+  <solucion>A, care( cuidar ), carefully( con cuidado ), worryment( preocupación )</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado>Marca</enunciado>
+  <opcionA>Marking</opcionA>
+  <opcionB>Brand</opcionB>
+  <opcionC>Shage</opcionC>
+  <opcionD>In advance</opcionD>
+  <solucion> B, marking( calificación ), shage( escenario ), in advance( por adelantado )</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Sordo</enunciado>
+  <opcionA> un listen </opcionA>
+  <opcionB>deaf</opcionB>
+  <opcionC> soundtrack</opcionC>
+  <opcionD>......</opcionD>
+  <solucion>B, soundtrack == banda sonora</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Lider liderazgo. </enunciado>
+  <opcionA>learder y leadership </opcionA>
+  <opcionB>Ninguna.</opcionB>
+  <opcionC>Ninguna es correcta.</opcionC>
+  <opcionD>==================</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+<pregunta>
+  <enunciado>Planear</enunciado>
+  <opcionA>Arrange</opcionA>
+  <opcionB>Organaise</opcionB>
+  <opcionC>Plan</opcionC>
+  <opcionD>Todas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado> Sugerir, sugerencia</enunciado>
+  <opcionA>Suggest, suggestion</opcionA>
+  <opcionB>Propose, proposal</opcionB>
+  <opcionC>Advise , advice</opcionC>
+  <opcionD>Todas son correctas</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>No importa</enunciado>
+  <opcionA>Dont mind.</opcionA>
+  <opcionB>Boil</opcionB>
+  <opcionC>truths and faits</opcionC>
+  <opcionD>Ninguna de las anteriores es correcta</opcionD>
+  <solucion>A, boil( hervir ), truths and faits( verdades y hechos )</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Colegas:</enunciado>
+  <opcionA>Follows, puls</opcionA>
+  <opcionB>Spare time</opcionB>
+  <opcionC>Slippery</opcionC>
+  <opcionD>Ninguna</opcionD>
+  <solucion>A, Spare time( tiempo libre ),  Slippery( resvalarizo ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Compañero:</enunciado>
+  <opcionA>flatmate</opcionA>
+  <opcionB>classmate</opcionB>
+  <opcionC>collague</opcionC>
+  <opcionD>A= compañero de piso, B= compañero de clase, C= compañero de colegio</opcionD>
+  <solucion>D </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> No te preocupes</enunciado>
+  <opcionA> Dont care</opcionA>
+  <opcionB>Dont mind</opcionB>
+  <opcionC>----</opcionC>
+  <opcionD>Ninguna</opcionD>
+  <solucion> A, dont care( no te preocupes) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Cambia: </enunciado>
+  <opcionA> Shift </opcionA>
+  <opcionB> Mediate </opcionB>
+  <opcionC> Monopolize </opcionC>
+  <opcionD>Ninguna</opcionD>
+  <solucion> A, dont mediate (mediar), monopolize( monopolizar ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Mejorar: </enunciado>
+  <opcionA> to percieve </opcionA>
+  <opcionB> to get better  </opcionB>
+  <opcionC> encapsulate  </opcionC>
+  <opcionD>Ninguna</opcionD>
+  <solucion> B, percieve (percibir), encapsulate( encapsular ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Crear: </enunciado>
+  <opcionA> murder </opcionA>
+  <opcionB> to restrict  </opcionB>
+  <opcionC> to create  </opcionC>
+  <opcionD>Ninguna</opcionD>
+  <solucion> C, murder (asesinato), restrict( restringido ), to create ( crear ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Ladrones: </enunciado>
+  <opcionA> fixs </opcionA>
+  <opcionB> thieves  </opcionB>
+  <opcionC> to steal  </opcionC>
+  <opcionD>Ninguna</opcionD>
+  <solucion> B( también stealoves), fixs (tercera persona de fix --> arreglar), to steal( robar )</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Mentalidad: </enunciado>
+  <opcionA> interact </opcionA>
+  <opcionB> Mind  </opcionB>
+  <opcionC> Mudset  </opcionC>
+  <opcionD> B y C</opcionD>
+  <solucion> D, interact --> interacturar</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Cada vez más: </enunciado>
+  <opcionA> addition </opcionA>
+  <opcionB> increasingly  </opcionB>
+  <opcionC> either  </opcionC>
+  <opcionD> A y B</opcionD>
+  <solucion> B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Fecha límite: </enunciado>
+  <opcionA> deadlimit </opcionA>
+  <opcionB> finaldate  </opcionB>
+  <opcionC> deadline  </opcionC>
+  <opcionD> Ninguna </opcionD>
+  <solucion> C, las otras inventadas.</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Ladrón: </enunciado>
+  <opcionA> thieve </opcionA>
+  <opcionB> Thiefe  </opcionB>
+  <opcionC> thief  </opcionC>
+  <opcionD> Ninguna </opcionD>
+  <solucion> C, las otras inventadas.</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Estar en el medio: </enunciado>
+  <opcionA> to be in the way </opcionA>
+  <opcionB> to take the middle  </opcionB>
+  <opcionC> to be in the middle  </opcionC>
+  <opcionD> A y C </opcionD>
+  <solucion> A, las otras inventadas.</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Muñequera: </enunciado>
+  <opcionA> ring</opcionA>
+  <opcionB> necklaces </opcionB>
+  <opcionC> circlehand  </opcionC>
+  <opcionD> Wristband </opcionD>
+  <solucion> D, ring --> anillo.</solucion>
+</pregunta>
+
+
+<pregunta>
+  <enunciado> Manipularlo: </enunciado>
+  <opcionA> in the hand</opcionA>
+  <opcionB> necklaces </opcionB>
+  <opcionC> Handle it  </opcionC>
+  <opcionD> anyway </opcionD>
+  <solucion> Handle it.</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Encargarse: </enunciado>
+  <opcionA> Fix</opcionA>
+  <opcionB> Encargate </opcionB>
+  <opcionC> Handle </opcionC>
+  <opcionD> anyway </opcionD>
+  <solucion> Handle.</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Ser bueno en : </enunciado>
+  <opcionA> to be good in</opcionA>
+  <opcionB> to get good at </opcionB>
+  <opcionC> to be good at </opcionC>
+  <opcionD> Ninguna </opcionD>
+  <solucion> C.</solucion>
+</pregunta>
+
+
+
+
+<pregunta>
+  <enunciado>enunciado</enunciado>
+  <opcionA>primera opcion</opcionA>
+  <opcionB>segunda opcion</opcionB>
+  <opcionC>tercera opcion</opcionC>
+  <opcionD>cuarta opcion</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Testigo</enunciado>
+  <opcionA>accomplice</opcionA>
+  <opcionB>witness</opcionB>
+  <opcionC>guilty</opcionC>
+  <opcionD>B Y C</opcionD>
+  <solucion>B, accomplice(complice), witness(testigo), guilty(culpable)</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Caber</enunciado>
+  <opcionA>Get in</opcionA>
+  <opcionB>Introduce </opcionB>
+  <opcionC>Fit</opcionC>
+  <opcionD> Ninguna</opcionD>
+  <solucion>C, Get in(entrar)</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Encapsular</enunciado>
+  <opcionA> Demage </opcionA>
+  <opcionB>Harm</opcionB>
+  <opcionC>Fit</opcionC>
+  <opcionD> Ninguna</opcionD>
+  <solucion>C, Demage(dañar),Perjudicar( harm)</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Horarios de salida</enunciado>
+  <opcionA> Bus leaves </opcionA>
+  <opcionB> exit times</opcionB>
+  <opcionC> Departure times</opcionC>
+  <opcionD> A y C</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Many</enunciado>
+  <opcionA> Mucho cualitativo </opcionA>
+  <opcionB>  Mucho cuantitativo</opcionB>
+  <opcionC> ---- </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Much</enunciado>
+  <opcionA> Mucho cualitativo </opcionA>
+  <opcionB>  Mucho cuantitativo</opcionB>
+  <opcionC> ---- </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Few </enunciado>
+  <opcionA> Incontable </opcionA>
+  <opcionB>  Contable </opcionB>
+  <opcionC> ---- </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> A little bit </enunciado>
+  <opcionA> Incontable </opcionA>
+  <opcionB>  Contable </opcionB>
+  <opcionC> ---- </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> A ( se podría poner en su sustitución bit) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Acabo de </enunciado>
   <opcionA> end it </opcionA>
   <opcionB>  just finish </opcionB>
   <opcionC>  Have just </opcionC>
-  <solucion> Each other </solucion>
+  <opcionD>  -----  </opcionD>
+  <solucion> C </solucion>
 </pregunta>
+
+<pregunta>
+  <enunciado> Cada uno: </enunciado>
+  <opcionA> onebody </opcionA>
+  <opcionB>  allbody </opcionB>
+  <opcionC>  each other </opcionC>
+  <opcionD>  -----  </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Enfoque: </enunciado>
+  <opcionA> approach </opcionA>
+  <opcionB> focus in </opcionB>
+  <opcionC>  -----  </opcionC>
+  <opcionD>  -----  </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> En contra de: </enunciado>
+  <opcionA> against </opcionA>
+  <opcionB> in other hand </opcionB>
+  <opcionC>  -----  </opcionC>
+  <opcionD>  -----  </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Cobijo: </enunciado>
+  <opcionA> regret </opcionA>
+  <opcionB> Blanket </opcionB>
+  <opcionC> homeless  </opcionC>
+  <opcionD>  -----  </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Succesor: </enunciado>
+  <opcionA> own </opcionA>
+  <opcionB> daughter </opcionB>
+  <opcionC> succesor  </opcionC>
+  <opcionD>  -----  </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Equipaje: </enunciado>
+  <opcionA> handbag </opcionA>
+  <opcionB> bag </opcionB>
+  <opcionC> luggage  </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> C handbag(bolso) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Personal: </enunciado>
+  <opcionA> stock </opcionA>
+  <opcionB> stuff </opcionB>
+  <opcionC> personal recurs </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> A bordo de : </enunciado>
+  <opcionA> on trip </opcionA>
+  <opcionB> on board the </opcionB>
+  <opcionC> on plane </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Descubir : </enunciado>
+  <opcionA> looking for</opcionA>
+  <opcionB> find out </opcionB>
+  <opcionC> to forward </opcionC>
+  <opcionD> to wish </opcionD>
+  <solucion> B, to forward( reenviar ), to wish( desear ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Solía : </enunciado>
+  <opcionA> forward to</opcionA>
+  <opcionB> do to </opcionB>
+  <opcionC> use to </opcionC>
+  <opcionD> to wish </opcionD>
+  <solucion> C, to forward( reenviar ), to wish( desear ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Cubierta : </enunciado>
+  <opcionA> Deck </opcionA>
+  <opcionB> Dock </opcionB>
+  <opcionC> Board </opcionC>
+  <opcionD> to wish </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Salon : </enunciado>
+  <opcionA> ---- </opcionA>
+  <opcionB> Hall </opcionB>
+  <opcionC> Living room </opcionC>
+  <opcionD> Lounge </opcionD>
+  <solucion> D </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Turismo : </enunciado>
+  <opcionA> sightseeing </opcionA>
+  <opcionB> visiters </opcionB>
+  <opcionC> ------- </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Seguro : </enunciado>
+  <opcionA> Security </opcionA>
+  <opcionB> Liberty </opcionB>
+  <opcionC> Insurance </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Desigual : </enunciado>
+  <opcionA> Even </opcionA>
+  <opcionB> Every </opcionB>
+  <opcionC> Uneven </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Mucho : </enunciado>
+  <opcionA> wath </opcionA>
+  <opcionB> too </opcionB>
+  <opcionC> Plenty </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Pedir prestado : </enunciado>
+  <opcionA> Bring </opcionA>
+  <opcionB> Spend </opcionB>
+  <opcionC> Borrow </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Niebla : </enunciado>
+  <opcionA> wind </opcionA>
+  <opcionB> Cloud </opcionB>
+  <opcionC> Fog </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Coger el avion o barco : </enunciado>
+  <opcionA> catch </opcionA>
+  <opcionB> take </opcionB>
+  <opcionC> get </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Profundidad : </enunciado>
+  <opcionA> high</opcionA>
+  <opcionB> above </opcionB>
+  <opcionC> depth </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Menos : </enunciado>
+  <opcionA> subtract </opcionA>
+  <opcionB> less </opcionB>
+  <opcionC>  ------ </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Menos : </enunciado>
+  <opcionA> subtract </opcionA>
+  <opcionB> less </opcionB>
+  <opcionC>  ------ </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Más lejos : </enunciado>
+  <opcionA> Futher </opcionA>
+  <opcionB> so far </opcionB>
+  <opcionC>  ------ </opcionC>
+  <opcionD> ------ </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Rápido : </enunciado>
+  <opcionA> Quick </opcionA>
+  <opcionB> Slow </opcionB>
+  <opcionC>  soft </opcionC>
+  <opcionD> rough </opcionD>
+  <solucion> A, rough(áspero) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Consejo : </enunciado>
+  <opcionA> Warn </opcionA>
+  <opcionB> Tip </opcionB>
+  <opcionC>  advirsity </opcionC>
+  <opcionD> advice </opcionD>
+  <solucion> B, warn(aviso), advirsity( adversidad), advice(consejo) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Incluso : </enunciado>
+  <opcionA> Dont mind </opcionA>
+  <opcionB> Even </opcionB>
+  <opcionC>  ---- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Defectos : </enunciado>
+  <opcionA> virtue </opcionA>
+  <opcionB> fault </opcionB>
+  <opcionC>  ---- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Cantidad : </enunciado>
+  <opcionA> Amount </opcionA>
+  <opcionB> Crowd </opcionB>
+  <opcionC>  ---- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A, crowd(multitud) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Enfermedad : </enunciado>
+  <opcionA> headache </opcionA>
+  <opcionB> Illness </opcionB>
+  <opcionC>  ---- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B, headache(dolor cabeza) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Pelea o discusion : </enunciado>
+  <opcionA> Fight </opcionA>
+  <opcionB> Quarel </opcionB>
+  <opcionC>  ----- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Frenos : </enunciado>
+  <opcionA> Brakes </opcionA>
+  <opcionB> wheels </opcionB>
+  <opcionC>  irons </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Pensamiento : </enunciado>
+  <opcionA> Mind </opcionA>
+  <opcionB> Thought </opcionB>
+  <opcionC>  irons </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Suavemente : </enunciado>
+  <opcionA> Mind </opcionA>
+  <opcionB> smoth criminal </opcionB>
+  <opcionC>  smothly </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Repentinamente : </enunciado>
+  <opcionA> Soon </opcionA>
+  <opcionB> Suddenly </opcionB>
+  <opcionC>  Early </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Estrecho : </enunciado>
+  <opcionA> wide </opcionA>
+  <opcionB> slippery </opcionB>
+  <opcionC>  narrow   </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Evitar : </enunciado>
+  <opcionA> avoid </opcionA>
+  <opcionB> obligate </opcionB>
+  <opcionC>  introduce  </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Mojado : </enunciado>
+  <opcionA> Dry </opcionA>
+  <opcionB> Wet </opcionB>
+  <opcionC>  Damp </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Mirar hacia : </enunciado>
+  <opcionA> award </opcionA>
+  <opcionB> looking for </opcionB>
+  <opcionC>  Look at </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Derramar : </enunciado>
+  <opcionA> award </opcionA>
+  <opcionB> remove </opcionB>
+  <opcionC>  spill </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Vecino : </enunciado>
+  <opcionA> daughter </opcionA>
+  <opcionB> neighbour </opcionB>
+  <opcionC>  aunt </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Saludar : </enunciado>
+  <opcionA> to greet </opcionA>
+  <opcionB> to thanks </opcionB>
+  <opcionC>  garden </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Almohada : </enunciado>
+  <opcionA> blanket </opcionA>
+  <opcionB> sheet </opcionB>
+  <opcionC>  pillow </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> C, blanket(cobijo), sheet(hoja) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Quitarse : </enunciado>
+  <opcionA> take on </opcionA>
+  <opcionB> take off </opcionB>
+  <opcionC>  take down </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B, take on(asumir), take down( derribar ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Quitarse : </enunciado>
+  <opcionA> take on </opcionA>
+  <opcionB> take off </opcionB>
+  <opcionC>  take down </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B, take on(asumir), take down( derribar ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Ponerse : </enunciado>
+  <opcionA> take on </opcionA>
+  <opcionB> put on </opcionB>
+  <opcionC>  ------- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A, take on(asumir), take down( derribar ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Solicitar : </enunciado>
+  <opcionA> apologize </opcionA>
+  <opcionB> Regret </opcionB>
+  <opcionC> Apply </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Implica : </enunciado>
+  <opcionA> involves </opcionA>
+  <opcionB> available </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A, available( disponible ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> A través : </enunciado>
+  <opcionA> rough </opcionA>
+  <opcionB> Across </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B, rough( duro ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Retos : </enunciado>
+  <opcionA> Tips </opcionA>
+  <opcionB> Chanlleges </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Torpe : </enunciado>
+  <opcionA> Clumsy </opcionA>
+  <opcionB> skillness </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ---- </opcionD>
+  <solucion> A, skillness( destreza ), skill( habilidad ), skilless( sin habilidad ) </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> En cambio : </enunciado>
+  <opcionA> Instead </opcionA>
+  <opcionB> In change </opcionB>
+  <opcionC> Conversely </opcionC>
+  <opcionD> A y D </opcionD>
+  <solucion> D </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Grueso : </enunciado>
+  <opcionA> Thick </opcionA>
+  <opcionB> Thin </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Diferencia entre soon y early : </enunciado>
+  <opcionA> early es cuando llegas antes de tiempo, soon es cuando llegas a la hora </opcionA>
+  <opcionB> Al revés </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Feria : </enunciado>
+  <opcionA> Party </opcionA>
+  <opcionB> Fair </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Reserva : </enunciado>
+  <opcionA> book </opcionA>
+  <opcionB> remove </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado> Toser : </enunciado>
+  <opcionA> to laugh </opcionA>
+  <opcionB> to caugh </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  Ponerse malo : </enunciado>
+  <opcionA> to have ill </opcionA>
+  <opcionB> to get ill </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  Profesor facultad : </enunciado>
+  <opcionA> lecturer </opcionA>
+  <opcionB> highteacher </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  Clase facultad : </enunciado>
+  <opcionA> lecture </opcionA>
+  <opcionB> speech </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  acercar : </enunciado>
+  <opcionA> near </opcionA>
+  <opcionB> lift </opcionB>
+  <opcionC> ----- </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  conseguir: </enunciado>
+  <opcionA> each </opcionA>
+  <opcionB> win </opcionB>
+  <opcionC> reach </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> A, reach=lograr </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  desperdiciar: </enunciado>
+  <opcionA> spend </opcionA>
+  <opcionB> waste </opcionB>
+  <opcionC>  </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> B, </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  hasta ahora: </enunciado>
+  <opcionA> till now </opcionA>
+  <opcionB> still now </opcionB>
+  <opcionC>  </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>  Valioso : </enunciado>
+  <opcionA> valiable </opcionA>
+  <opcionB> beautiful </opcionB>
+  <opcionC>  </opcionC>
+  <opcionD> ----- </opcionD>
+  <solucion> A </solucion>
+</pregunta>
+
+
 
 </tema>
