@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tema titulo="Vocabulary" cantidad_preguntas="63">
 
-  <script>
-    var respuesta=confirm(Acabo de:);
-    if( respuesta=="have just"){
-      alert("respuesta correcta");
-    }
-    else{
-      alert("respuesta incorrecta");
-    }
-  <script>
+
 
 <pregunta>
-  <script>
-    var respuesta=confirm(Acabo de:);
-    if( respuesta=="have just"){
-      alert("respuesta correcta");
-    }
-    else{
-      alert("respuesta incorrecta");
-    }
-  <script>
+  <enunciado> Cada uno: </enunciado>
+  <solucion> Each other </solucion>
 </pregunta>
 
 </tema>
